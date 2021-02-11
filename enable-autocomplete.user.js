@@ -2,10 +2,10 @@
 // @name         Enable autocomplete
 // @description  Removes the autocomplete attribute from form input elements
 // @namespace    https://joshenders.com
-// @version      v1.0.0
+// @version      1.0.1
 // @author       Josh Enders <josh.enders@gmail.com>
-// @updateURL    https://raw.githubusercontent.com/joshenders/userscript-enable-autocomplete/stable/enable-autocomplete.user.js
-// @downloadURL  https://raw.githubusercontent.com/joshenders/userscript-enable-autocomplete/stable/enable-autocomplete.user.js
+// @updateURL    https://raw.githubusercontent.com/joshenders/userscript-enable-autocomplete/master/enable-autocomplete.user.js
+// @downloadURL  https://raw.githubusercontent.com/joshenders/userscript-enable-autocomplete/master/enable-autocomplete.user.js
 // @grant        none
 // @match        *://*/*
 // @run-at       document-end
